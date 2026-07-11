@@ -1,0 +1,13 @@
+INFORMACOES SISTEMA FINANCEIRO: 
+
+Preparar o ambiente (venv, Git, Django e estrutura).
+Criar o layout base com Bootstrap ou Tailwind.
+Implementar autenticação (login, logout e cadastro).
+Configurar o PostgreSQL.
+Criar os modelos (Categorias, Receitas, Despesas e Metas).
+Implementar o CRUD de cada modelo.
+Construir o Dashboard com gráficos.
+Criar os relatórios.
+Adicionar exportação para PDF e Excel.
+Dockerizar a aplicação.
+Fazer o deploy e documentar tudo no README.
